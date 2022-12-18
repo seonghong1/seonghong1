@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=R&logoColor=white">
+<img src="https://img.shields.io/badge/Javascript-3776AB?style=for-the-badge&logo=R&logoColor=white">
+<img src="https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=R&logoColor=white">
+<img src="https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=R&logoColor=white">
+<img src="https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=R&logoColor=white">
 <img src="https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=R&logoColor=white">
 
 
