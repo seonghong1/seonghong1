@@ -1,9 +1,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f2937,100:334155&height=150&section=header&text=Seonghong%20Jo&fontColor=f8fafc&fontSize=42&fontAlignY=40&desc=Backend%20Engineer&descSize=16&descAlignY=68" alt="Seonghong Jo · Backend Engineer" width="100%"/>
-
-한국어 · English
-
 </div>
 
 4년 차 백엔드 엔지니어 조성홍입니다. 프론트엔드로 일을 시작했고, 지금은 백엔드를 주로 합니다.
